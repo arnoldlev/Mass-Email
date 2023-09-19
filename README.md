@@ -1,2 +1,1 @@
-# Mass-Email
-Allow sending a mass of emails
+Generate a Heading and Email Body and send to multiple emails at once.
